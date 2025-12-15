@@ -1,2 +1,2 @@
-#This project mainly includes bootstrap 
-#Frontend: React
+# This project mainly includes bootstrap 
+# Frontend: React
